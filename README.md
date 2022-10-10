@@ -64,7 +64,7 @@ daemon=1
 
 txindex=1
 
-https://www.google.com/recaptcha/admin/site
+https://www.google.com/recaptcha/admin/
 
 TODO: Add a step in the wiki explaining to copy settings-example.php into a new file settings.php and then change the values.
 
