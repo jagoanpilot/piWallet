@@ -1,6 +1,6 @@
 <?php if (!defined("IN_WALLET")) { die("Auth Error!"); } ?>
     <div class="page-header clear-filter" filter-color="green">
-      <div class="page-header-image" data-parallax="true" style="background-image:url('../assets/img/bg5.jpg');">
+      <div class="page-header-image" data-parallax="true" style="background-image:url('../assets/img/background.png');">
       </div>
       <div class="container">
         <div class="photo-container">

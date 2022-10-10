@@ -5,18 +5,18 @@
         <nav>
           <ul>
             <li>
-              <a href="https://bitcointalk.org/index.php?topic=4949073">
-                <b>5$ BONUS</b>
+              <a href="https://www.exbitron.com/trading/jgcusdt">
+                <b>Exbitron</b>
               </a>
             </li>
             <li>
-              <a href="http://greencoin.space/">
-                Pool
+              <a href="https://www.bitoreum.exchange/trading/jgcusdt">
+              Bitoreum
               </a>
             </li>
             <li>
-              <a href="http://greencoin.life/faucet">
-                FAUCET
+              <a href="https://xeggex.com/">
+                Xeggex
               </a>
             </li>
           </ul>
